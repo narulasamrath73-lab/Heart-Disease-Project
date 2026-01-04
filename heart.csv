@@ -1,3 +1,7 @@
+The dataset that I have worked upon is downloaded from the internet sources like kaggle,githubs. 
+
+I have attached(uploaded) the dataset on which I have worked upon for the references .
+
 age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
 63,1,3,145,233,1,0,150,0,2.3,0,0,1,1
 37,1,2,130,250,0,1,187,0,3.5,0,0,2,1
